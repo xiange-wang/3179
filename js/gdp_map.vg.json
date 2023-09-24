@@ -55,7 +55,7 @@
           "scale": {"scheme":"goldorange"}
         },
         "tooltip": [
-          {"field": "properties.GU_A3", "type": "nominal", "title": "Country_Code"},
+          {"field": "properties.GU_A3", "type": "nominal", "title": "Country_code"},
           {"field": "country", "type": "nominal"},
           {"field": "gdp", "type": "quantitative"}
         ]
