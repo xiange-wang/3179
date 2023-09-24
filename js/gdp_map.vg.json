@@ -1,6 +1,6 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "title": "GDP per country (2016)",
+  "title": "GDP per country in world(2016)",
   "width": 800,
   "height": 500,
   "data": {
